@@ -98,99 +98,99 @@ const caseData = {
 const projectOutputs = {
   vaseline: {
     wireframe: {
-      src: "assets /Screenshot 2025-11-17 at 19.05.52.png",
+      src: "Vaselinewireframe.png",
       alt: "Vaseline Glow wireframe"
     },
     layout: {
-      src: "assets /Screenshot 2025-11-18 at 02.57.04.png",
+      src: "Vaselinelayout.png",
       alt: "Vaseline Glow layout"
     },
     mobile: [
-      { src: "assets /Screenshot 2025-11-18 at 03.10.00.png", alt: "Vaseline Glow mobile screen 1" },
-      { src: "assets /Screenshot 2025-11-18 at 03.10.13.png", alt: "Vaseline Glow mobile screen 2" },
-      { src: "assets /Screenshot 2025-11-18 at 03.10.25.png", alt: "Vaseline Glow mobile screen 3" },
-      { src: "assets /Screenshot 2025-11-18 at 03.10.38.png", alt: "Vaseline Glow mobile screen 4" },
-      { src: "assets /Screenshot 2025-11-18 at 03.10.53.png", alt: "Vaseline Glow mobile screen 5" },
-      { src: "assets /Screenshot 2025-11-18 at 03.11.10.png", alt: "Vaseline Glow mobile screen 6" },
-      { src: "assets /Screenshot 2025-11-18 at 03.11.23.png", alt: "Vaseline Glow mobile screen 7" },
-      { src: "assets /Screenshot 2025-11-18 at 03.11.45.png", alt: "Vaseline Glow mobile screen 8" },
-      { src: "assets /Screenshot 2025-11-18 at 03.11.58.png", alt: "Vaseline Glow mobile screen 9" },
-      { src: "assets /Screenshot 2025-11-18 at 03.12.13.png", alt: "Vaseline Glow mobile screen 10" }
+      { src: "V1.png" },
+      { src: "V2.png", alt: "Vaseline Glow mobile screen 2" },
+      { src: "V3.png", alt: "Vaseline Glow mobile screen 3" },
+      { src: "V4.png", alt: "Vaseline Glow mobile screen 4" },
+      { src: "V5.png", alt: "Vaseline Glow mobile screen 5" },
+      { src: "V6.png", alt: "Vaseline Glow mobile screen 6" },
+      { src: "V7.png", alt: "Vaseline Glow mobile screen 7" },
+      { src: "V8.png", alt: "Vaseline Glow mobile screen 8" },
+      { src: "V9.png", alt: "Vaseline Glow mobile screen 9" },
+      { src: "V10.png", alt: "Vaseline Glow mobile screen 10" }
 
       
     ]
   },
   "blue-owl": {
     wireframe: {
-      src: "assets /Screenshot 2025-11-17 at 19.07.16.png",
+      src: "blueowlwireframe.png",
       alt: "Blue Owl wireframe"
     },
     layout: {
-      src: "assets /Screenshot 2025-11-18 at 02.59.18.png",
+      src: "blueowllayout.png",
       alt: "Blue Owl layout"
     },
     mobile: [
-      { src: "assets /Screenshot 2025-11-18 at 03.12.43.png", alt: "Blue Owl mobile screen 1" },
-      { src: "assets /Screenshot 2025-11-18 at 03.13.03.png", alt: "Blue Owl mobile screen 2" },
-      { src: "assets /Screenshot 2025-11-18 at 03.13.26.png", alt: "Blue Owl mobile screen 3" },
-      { src: "assets /Screenshot 2025-11-18 at 03.13.40.png", alt: "Blue Owl mobile screen 4" },
-      { src: "assets /Screenshot 2025-11-18 at 03.13.54.png", alt: "Blue Owl mobile screen 5" }
+      { src: "B1.png", alt: "Blue Owl mobile screen 1" },
+      { src: "B2.png", alt: "Blue Owl mobile screen 2" },
+      { src: "B3.png", alt: "Blue Owl mobile screen 3" },
+      { src: "B4.png", alt: "Blue Owl mobile screen 4" },
+      { src: "B5.png", alt: "Blue Owl mobile screen 5" }
 
     ]
   },
   recycling: {
     wireframe: {
-      src: "assets /Screenshot 2025-11-18 at 02.46.55.png",
+      src: "recyclewireframe.png",
       alt: "Recycling League wireframe"
     },
     layout: {
-      src: "assets /Screenshot 2025-11-18 at 02.59.53.png",
+      src: "recyclelayout.png",
       alt: "Recycling League layout"
     },
     mobile: [
-      { src: "assets /Screenshot 2025-11-18 at 03.18.40.png", alt: "Recycling League mobile screen 1" },
-      { src: "assets /Screenshot 2025-11-18 at 03.19.00.png", alt: "Recycling League mobile screen 2" },
-      { src: "assets /Screenshot 2025-11-18 at 03.19.12.png", alt: "Recycling League mobile screen 3" },
-      { src: "assets /Screenshot 2025-11-18 at 03.19.24.png", alt: "Recycling League mobile screen 4" },
-      { src: "assets /Screenshot 2025-11-18 at 03.19.37.png", alt: "Recycling League mobile screen 5" },
-      { src: "assets /Screenshot 2025-11-18 at 03.19.54.png", alt: "Recycling League mobile screen 6" },
-      { src: "assets /Screenshot 2025-11-18 at 03.20.07.png", alt: "Recycling League mobile screen 7" },
-      { src: "assets /Screenshot 2025-11-18 at 03.20.19.png", alt: "Recycling League mobile screen 8" }
+      { src: "RC1.png", alt: "Recycling League mobile screen 1" },
+      { src: "RC2.png", alt: "Recycling League mobile screen 2" },
+      { src: "RC3.png", alt: "Recycling League mobile screen 3" },
+      { src: "RC4.png", alt: "Recycling League mobile screen 4" },
+      { src: "RC5.png", alt: "Recycling League mobile screen 5" },
+      { src: "RC6.png", alt: "Recycling League mobile screen 6" },
+      { src: "RC7.png", alt: "Recycling League mobile screen 7" },
+      { src: "RC8.png", alt: "Recycling League mobile screen 8" }
     ]
   },
   era: {
     wireframe: {
-      src: "assets /Screenshot 2025-11-17 at 19.07.37.png",
+      src: "Erawireframe.png",
       alt: "Era wireframe"
     },
     layout: {
-      src: "assets /Screenshot 2025-11-18 at 02.57.28.png",
+      src: "eralayout.png",
       alt: "Era layout"
     },
     mobile: [
-      { src: "assets /Screenshot 2025-11-18 at 03.23.16.png", alt: "Era mobile screen 1" },
-      { src: "assets /Screenshot 2025-11-18 at 03.23.26.png", alt: "Era mobile screen 2" },
-      { src: "assets /Screenshot 2025-11-18 at 03.23.36.png", alt: "Era mobile screen 3" },
-      { src: "assets /Screenshot 2025-11-18 at 03.23.48.png", alt: "Era mobile screen 4" },
-      { src: "assets /Screenshot 2025-11-18 at 03.24.02.png", alt: "Era mobile screen 5" }
+      { src: "E1.png", alt: "Era mobile screen 1" },
+      { src: "E2.png", alt: "Era mobile screen 2" },
+      { src: "E4.png", alt: "Era mobile screen 3" },
+      { src: "E5.png", alt: "Era mobile screen 4" },
+      { src: "E6.png", alt: "Era mobile screen 5" }
       
     ]
   },
   reboost: {
     wireframe: {
-      src: "assets /Screenshot 2025-11-17 at 19.07.49.png",
+      src: "Reboostwireframe.png",
       alt: "Reboost wireframe"
     },
     layout: {
-      src: "assets /Screenshot 2025-11-18 at 02.58.12.png",
+      src: "reboostlayout.png",
       alt: "Reboost layout"
     },
     mobile: [
-      { src: "assets /Screenshot 2025-11-18 at 03.24.26.png", alt: "Reboost mobile screen 1" },
-      { src: "assets /Screenshot 2025-11-18 at 03.24.40.png", alt: "Reboost mobile screen 2" },
-      { src: "assets /Screenshot 2025-11-18 at 03.24.50.png", alt: "Reboost mobile screen 3" },
-      { src: "assets /Screenshot 2025-11-18 at 03.25.01.png", alt: "Reboost mobile screen 4" },
-      { src: "assets /Screenshot 2025-11-18 at 03.25.14.png", alt: "Reboost mobile screen 5" }
+      { src: "R1.png", alt: "Reboost mobile screen 1" },
+      { src: "R2.png", alt: "Reboost mobile screen 2" },
+      { src: "R3.png", alt: "Reboost mobile screen 3" },
+      { src: "R4.png", alt: "Reboost mobile screen 4" },
+      { src: "R5.png", alt: "Reboost mobile screen 5" }
       
     ]
   }
